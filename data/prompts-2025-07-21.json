@@ -1,0 +1,2441 @@
+[
+  {
+    "id": "95a36f82-0b07-4cfb-90a8-0f4ea81df2fe",
+    "content": "Write more confidently How can I more concisely describe [time management]?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.450Z",
+    "title": ""
+  },
+  {
+    "id": "bcff7989-e32c-41a0-a648-67ee99c08bc7",
+    "content": "Sharpen your writing Analyze the following text and make suggestions on how to improve it: [text]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "645c38da-e5a3-4bbd-8e71-952e1b0ac9c4",
+    "content": "Reach a broader audience Translate the following text into [English (United States)]:",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "0df5aa7f-d451-422e-bd65-91abf81ebe27",
+    "content": "Monitor industry news Prepare a daily brief of news from the [finance]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "db5c8d83-8daa-416a-95d7-13c9ece51ce2",
+    "content": "Copy-edit this How's this grammar? [insert content here]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "87cd7edd-27c5-4f7c-bafc-6eef7e98bca0",
+    "content": "What does it mean? Explain [Blockchain Technology] in simple terms.",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "61e1f475-f19d-4aa3-8d58-74b92ffefdc3",
+    "content": "Improve your writing Rewrite this to sound more professional and less verbose:",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "c1c80c5a-f426-44d9-a600-de27aa02bd54",
+    "content": "Interpret this code Tell me what this code does…",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "42a10aa2-f192-4ecf-a9f4-0a78b1550307",
+    "content": "Code faster Write a Python script to [perform binary search]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "0a920ab3-3b6d-4488-bd71-bbdbd513a5a3",
+    "content": "Recap the event What do I need to know from [industry event]?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "5041da3f-6870-4e73-bf08-5030a3da377e",
+    "content": "Code effortlessly Write a Python for [showing the Fibonacci series up to 10 natural numbers]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "b0fc0eaf-d970-421e-ab52-aaf98564ad3a",
+    "content": "How do you say it? How do you say [thank you for your time] in Japanese?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "22bbf988-861f-4865-a55b-9f763a66bffb",
+    "content": "Grasp the data quickly Create a pie chart [showing smartphone market share in the United States]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "1123f69a-6c7a-4c1a-954a-db6968a7b043",
+    "content": "Custom toast builder Help me write a toast for [my best friend’s wedding]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "a5dfcd35-86c4-4e80-9d50-a6d2f810ba50",
+    "content": "Improve your code Optimize and fix this code...",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "769912d7-8bac-4428-859e-1230a0c8d0f6",
+    "content": "Explore what's possible Tell me an interesting fact and hypothesize what it reveals about the world",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "2982ca97-f465-462f-bf3c-a1b0a72b3aea",
+    "content": "Get instructions Give me step-by-step instructions for making an Instagram Reel",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "171fe9f1-dc64-4f87-bf9c-a703b31ad744",
+    "content": "Find bugs Help me find errors in this code...",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "559ae2f0-69fa-48d4-9e5f-f9ae0f37f4fa",
+    "content": "Track changes over time Create a line chart of inflation vs. interest rates over the past 20 years",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "3e4ce452-1264-4599-8009-24ce021f0521",
+    "content": "Visualize your data Create a bar chart of [energy consumption for the top 5 energy consuming countries]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "48989646-a0e6-4712-a3a9-c1f962f64e82",
+    "content": "Track your team This week in sports: Who’s rising, who’s falling, and what everyone’s talking about.",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "d6c25319-37e5-4072-a63f-636e566d3d29",
+    "content": "Tailored to fit Create a weekly workout routine designed for limited mobility",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "44343f54-f69a-4e99-a1b5-bb8b6f7c5995",
+    "content": "Comparison breakdown What are the key differences between policy and politics, and how do they impact [climate change adaptation]?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "b2df940b-0f23-4abf-a2c7-a32ec982fa4e",
+    "content": "Provide good feedback Give examples of constructive criticism for a friend or partner",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "92fe9d30-a9ff-4ec2-9058-226e17384810",
+    "content": "Jump on socials Give me tips to establish a presence on Bluesky",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "938860b5-f3cf-4409-880f-e177c4d712a7",
+    "content": "Personalize playtime Create a simple coloring book image for my child featuring [our family pet]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "e4bd2a5f-2103-4a35-8ae6-224e793e3a09",
+    "content": "Kickstart a draft Draft an email to [person] about...",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "03dd362e-b832-424f-9c02-f2de10527f21",
+    "content": "Stay on top of AI Summarize the main points of the latest research on AI",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "3cbb2097-3106-4e45-b747-5aab7f661356",
+    "content": "Communicate visually Create a romantic pop art image of an office worker in a dramatic coffee crisis",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "de36c378-4c39-460a-9c5e-298fb87a70c4",
+    "content": "Unique advice If I wanted to master [public speaking], what unconventional advice would you offer?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "445ab25d-97c8-43c3-b763-a25f6f3b8198",
+    "content": "Minecraft yourself Create an image of me as a Minecraft character, featuring specific features, wearing a detailed outfit, and walking through a dynamic scene with an object.",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "09a681e4-f4b6-4f9e-98e3-e6aafe60ce75",
+    "content": "Anticipate trends Summarize the state of [the streaming industry]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "585874b3-4717-4a4b-8baf-a66b1d51ffe7",
+    "content": "Express it visually Create a Gumby-style clay model image of the polluted Earth",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "d19b3b11-3cdd-4149-9ef9-f2db37049a7a",
+    "content": "Bring your ideas to life Design an image of a drawing of a database in colored pencil",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "15081fef-7550-4539-94d8-98cb85902f49",
+    "content": "Make it stand out Suggest a few subjects for the following email: [paste email body here]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "b05d07f6-7fa3-4373-96e0-e414798254f3",
+    "content": "Translate languages Convert this code to TypeScript",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "975c29d4-777a-4bae-bd2d-af30b3e9b781",
+    "content": "Co-create with Copilot Ask me 3 questions to help me draft a blog post about [new year's resolutions]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "1f6063a5-84b3-4595-ba16-c970a570578f",
+    "content": "Sage advice What questions should I ask myself when thinking about [changing my career]?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "dcb45243-c73f-4b74-b99f-e7f67594f434",
+    "content": "Discover your next read I enjoyed the book [Steal Like an Artist]. Please recommend similar books I may enjoy.",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "93d7cfb7-ff0e-4598-a5c5-bfdf0f9eef40",
+    "content": "Follow trends What stocks are trending in the NASDAQ?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "14eb8de1-4c57-49b3-a14f-dee024169dcb",
+    "content": "Get the best seats I'm flying from [Vancouver] to [Reykjavick] - which side of the plane should I sit on to get the best views?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "daa9525e-b72a-4d68-8e78-4702b27a807f",
+    "content": "Help you code Write a linked list in TypeScript with functions to add, delete, and find nodes.",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "138e1fce-5875-4192-b706-0df8a7665dc6",
+    "content": "Coach me Tell me best practices for [creating a persuasive presentation]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "e8a927f7-26fd-44bf-982c-2fdf2e880a1f",
+    "content": "Stay focused What are some techniques to help me avoid distractions and get more done?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "05a5a1a1-6af2-46d3-bf9f-bf4c95b8a28c",
+    "content": "Complete the picture What are some benefits and drawbacks of [AI art in the creative industry]?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "1d4be780-551b-4aeb-b5e1-b82f12bbae53",
+    "content": "Plan the solution If I wanted to solve [urban traffic congestion], what steps would you recommend?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "4a43fe1b-ab75-4726-8fce-4306caf22fdb",
+    "content": "Unlock your mind Explain the benefits of journaling and break down the steps for writing a personal essay",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "8d5a845e-de65-4d7c-810a-1eb2af846015",
+    "content": "Empower your voice Give me some tips for helping me self-advocate in my personal life",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "5b5f4787-5e6a-4ba1-aeea-1afc83ead54b",
+    "content": "Boost your knowledge Help me learn about [topic]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "0061f7f1-4830-434f-ade6-847ba763f27b",
+    "content": "Jog your memory How do I pass references in React?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "bc489840-f656-4923-8f29-91490e2c29d6",
+    "content": "Calculate the ROI How will $450,000 gain in 5 years with an 8% annual return? Show your work",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "101cfb52-1502-4eff-a873-8da0ce9dd2c5",
+    "content": "Dietary trends Explain the benefits and drawbacks of a plant-based diet",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "96738a95-19fe-46df-ac42-286752f4d7c0",
+    "content": "Boost your socials Provide tips for crafting a compelling Instagram post",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "45593d9f-7691-4570-8722-6fb6b3cf80bf",
+    "content": "Master the 3-21-0 method What is the 3-21-0 Method for email management?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "80474601-e43b-4fbc-b0a8-e09ede62715b",
+    "content": "Start your research How have world literacy rates changed in the past 30 years?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "3fe2dbcb-3208-4ef3-b309-85ab4aac9faf",
+    "content": "Evolving views How has the perception of [mental health] changed throughout history?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "99159f6e-1b3c-4868-9398-6a75e1eec581",
+    "content": "Declutter your inbox How can I decide which emails to delete or archive?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "477818f5-0084-4a92-9a6c-79b278966e1b",
+    "content": "Email subscription tips How can I efficiently unsubscribe from newsletters?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "90778332-ed39-4a7e-bec8-f8f3c4a15016",
+    "content": "Draft your plan Draft a business plan based on [my cat cafe in downtown San Francisco]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "89cd2f3c-58fa-42c6-b0a8-fbc9faedf643",
+    "content": "Get more done What are 5 - 6 ways to beat procrastination?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "df0c3dd5-692e-42be-871f-dbeb1ed77baf",
+    "content": "Find your calm What are some ways to reduce stress?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "d820f9ab-e636-4308-94b1-23ed33280380",
+    "content": "Visualize the data Create an image of a bar chart demonstrating growth",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "7710a4c7-be8c-45c3-8768-55d7ecb32638",
+    "content": "Weigh the options Compare sorting algorithms [for a large array with duplicate entries]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "e45372a7-59c6-447c-b944-de79989b1041",
+    "content": "Detect outliers Create a scatter plot of [health spending vs life expectancy for OECD countries]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "9b31a882-ae9d-4120-82dc-3c9476a377ae",
+    "content": "Generate ideas List ideas for fun games to play at a baby shower",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "a84bf71d-68a4-4877-aa6d-ca2da66a2145",
+    "content": "Discover new food Share some traditional dishes from Japan",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "b2529384-6994-4a97-a29b-b67c62aaaebd",
+    "content": "Make an informed decision Create a table that compares top-rated coffee makers",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "0cb32dc0-68b5-46d1-86ed-2f1f594cad8d",
+    "content": "Elevate your space Compare 10 of the most innovative and creative home design ideas",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "96aa51d1-6bc8-4152-be7a-ea1de6cea02a",
+    "content": "Dive deep Draft a comprehensive list of questions to ask about [space exploration technologies]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "4e5ff295-bd32-49e7-a067-65c54016afc2",
+    "content": "Plan for success Provide tips for setting achievable goals and sticking to resolutions",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "07cddaf6-03d1-467c-b342-dff0ed94ec8c",
+    "content": "Planning made easy Create a content calendar for my [lifestyle] TikTok account",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "16794eb7-dbfa-4196-91a5-95038742cc19",
+    "content": "Explore both options Is it better to eat before working out or after?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "e9164923-aa4e-4d72-a629-8f9d7f87141a",
+    "content": "Suggest some music What are some intermediate-level oboe pieces I could learn to help me improve?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "47ab7d1b-c36e-41db-89dc-e345b604bd2a",
+    "content": "Tame your inbox Explain Inbox Zero, and share some common tips and strategies to help implement it",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "01938c4b-f8b0-472a-ac71-24a6e893d1ad",
+    "content": "Tell better stories How can I improve my storytelling skills?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "e098086b-ec90-4c20-a780-0aa08e7b7e78",
+    "content": "Discover synonyms What are some other words for [exciting]?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "d107ca36-5a97-46c2-9757-db92228d4e55",
+    "content": "Highlight the main points Create a word cloud based on [the latest financial news]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "ddac1fa2-4fde-4dcf-a0a2-888473ad2fc1",
+    "content": "Help you decide Compare server-side frameworks for webapp development and include code snippets.",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "9001355d-b6e1-4ac9-97a0-d9359cb44436",
+    "content": "Understand mysteries Explain black holes and how they form",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "4bc8e1c5-fe8b-46be-94ef-d500c1f5777b",
+    "content": "Boost your flexibility Explain the difference between different yoga and pilates, and which one is better for flexibility.",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "a403d261-1e03-446c-993a-3f507ab010ac",
+    "content": "Surprise yourself What are some surprising facts or little-known insights about [neuroplasticity]?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "88214edd-74f0-478e-b75a-28f2ee7f8a22",
+    "content": "Travel savvy Tell me a story about a perfect travel day, including tips to save me time along the way",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "16f95407-7987-49e1-9f1b-ac06b18b0765",
+    "content": "Professional tactics How do professionals in [architecture and urban planning] approach challenges that seem insurmountable?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "b78ed690-06f3-4b2a-b58e-9bed9c7dfb71",
+    "content": "Future vision What would an ideal future look like for [renewable energy adoption], and what steps are necessary to achieve it?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "71d898fa-d502-4944-b335-1a43c3488706",
+    "content": "Navigate conflict Give me tips for dealing with a difficult neighbor",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "4353a011-a15a-4818-afcf-289ef700e236",
+    "content": "Tiktok analytics 101 Help me understand how to analyze the performance of posts on TikTok",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "18381028-98dd-4e7c-a627-c652a6b1d34b",
+    "content": "Build programming skills Write a C# program to [check if a number is prime]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "519aafbf-887c-4ae1-969b-b16c14c13f4c",
+    "content": "Learn about productivity Explain the pomodoro technique for time management",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "2dcd028d-d137-4d47-8020-97ecd4387393",
+    "content": "Examine systemic shifts What are some economic impacts of [globalization]?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "5f102365-4eb2-452b-ad0b-a8fe6cb1d882",
+    "content": "Tackle math challenges Show me how to solve for x, where x - 3y = 6 and y = 2",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "902d7266-25dc-41bd-b80b-54f1b98868ce",
+    "content": "Compare hot industries Compare the world's top five fastest-growing industries",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "329b15d9-8dfc-47a0-b540-f5ffe8cf26bc",
+    "content": "Latest IMF insights Summarize the latest report from the International Monetary Fund (IMF)",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "425bd9ee-9c9f-4ebd-b1a1-83be16a64606",
+    "content": "Optimal laundry options Do I run the washing machine during the day or at night? My goals are to save money and be eco-friendly, if possible.",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "5b4538ce-e13f-404d-9f58-e6a630ba3009",
+    "content": "Extract climate insights What are the key findings from the 2025 UN Climate Change Report?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "9a76c36b-1a41-4c2c-a950-d1ba0114210a",
+    "content": "Dream dinner party Imagine a dream dinner party with unexpected fictional guests tailored to delight a [describe yourself]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "91aa47e3-ab9a-4bc9-9220-9e17a5f566aa",
+    "content": "Networking social script What are work-appropriate, open-ended questions I can ask at a networking event?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "705d5052-71b0-4e36-ab2e-67da7673b368",
+    "content": "Ask for clarification I need help understanding my task about [creating a conversion funnel]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "470fc568-ef00-4261-be6d-00f0226e8b7a",
+    "content": "Wrap up a discussion What are some ways I can gracefully exit a conversation [at a networking event]?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "54379e26-7937-4707-8263-a47143090e89",
+    "content": "Effective follow-up How can I follow up after a networking event?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "fa01d198-c804-4b64-8f2c-1ac0e023fcbb",
+    "content": "Spirit animal revealed Help me discover which animal best represents my personality and lifestyle",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "0b88ae5d-c165-4364-b41f-c1785a07a5ff",
+    "content": "Promote it on socials Draft a catchy Threads post about [the jazz band's end of year concert]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "189cf4ea-f2d9-4f01-918d-71aa9065352a",
+    "content": "Going on holiday? Write some funny Out of Office email replies when I'm on vacation [May 23-27]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "97c2329c-4fef-4b3b-a591-fa63ce501b87",
+    "content": "Show me how to solve it Show me how to solve this integral ∫(3x^2 + 2x + 1)dx",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "860d6543-3a3f-4bd3-9994-d19b75fdd13a",
+    "content": "Highlight the differences Compare these files grouped by differences in formatting, structure, and content: [attach files]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "ab9d6f2b-4580-42ae-a96a-33a244b7f646",
+    "content": "Gauge the temperature Give me a concise summary of recent news about [product or company]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "8c5c77f7-09a3-4237-ad1c-9ec8c7f3b612",
+    "content": "Show me the result Execute and explain this code…",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "5c6754f4-dbfd-4bb4-9162-cf33b843f785",
+    "content": "Draft fast with your team Draft a new hire \"welcome guide\" that my team and I can collaborate on",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "c1b2a752-85d1-4221-b26f-d694b4163630",
+    "content": "Grow your network How can I build relationships through engaging with other's content on LinkedIn?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "336f5972-50e7-4cd1-9c2c-f8e4bbdfabba",
+    "content": "Show me how to do it Show me how to solve the first-order linear differential equation: dy/dx + y = e^x",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "83d4cdaf-c530-48ae-8484-f7637deaa04d",
+    "content": "Decipher data Explain this graph to me: [upload image or insert link here]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "f541f04a-1e2d-42e9-a502-69040b4a9881",
+    "content": "Make it accessible Create alt text to describe this image and its context: [upload image]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "8f644b11-f741-49b0-906b-a1b0f928bb97",
+    "content": "Trial AI tools Help me build an actionable, measurable plan to lead my team into becoming an AI-first organization",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "97177f6d-ab49-4789-a4b6-d3aebd125f62",
+    "content": "Make it happen Write a SQL query to return all columns where [the sales are above 10000]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "46b41b29-f2e8-460a-a837-399103267553",
+    "content": "Quiz me Quiz me to see what I remember about enzyme kinetics for biochemistry",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "a339da5d-f98e-4df2-a1e2-75b95ebb4063",
+    "content": "Foster skill growth Suggest fun ways to inspire employees to participate in development programs",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "fa98194c-012b-452a-8602-0f9ca5f6d6f8",
+    "content": "Get writing feedback Can you help me edit a draft of a document if I upload it?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "f48a64b3-fb0d-416d-8996-aa34289c357e",
+    "content": "Help me revise Can you help me rewrite this paragraph to make it clearer and more concise?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "8284d62c-15a8-4599-a137-24ea1f29f7d4",
+    "content": "Operationalize AI Help me move my team from AI experimentation to scaled, integrated use",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "3a9e14d1-ce3f-47a6-bbe2-50a1be696653",
+    "content": "Build AI fluency What does it mean to be an AI-first or AI-native company?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "e7dfc48d-d23f-4643-acc3-4ed60c02edd7",
+    "content": "Stand out on socials What are some tips for writing a great LinkedIn post?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "25a5c871-c946-4edc-ab72-da19c7d60f51",
+    "content": "Make an informed decision Create a table that compares top-selling office printers",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "fe20b054-b7dd-4674-9f1e-84a9b7e9a8a0",
+    "content": "Generate ideas List ideas for a fun remote team building event",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "a021761d-ad1b-4a01-8de0-ac397fd1f32c",
+    "content": "Learn something new How do I write a request for proposal?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "6de7fcc3-4ef5-4fd8-b415-5cd4e894ef12",
+    "content": "Bespoke Teams backgrounds Create a professional-looking background that represents [early Spring]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "0876f56c-ac97-433b-a93e-baf57d20d4d2",
+    "content": "Find the break-even point How many units to sell at $50 to break even with $250K fixed costs?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "f49f0d62-9e04-4d59-908a-44cde86f3e4f",
+    "content": "Analyze visuals Describe what's in this image: [upload file or insert link here]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "8e294c9b-324b-46d7-8607-ddfeebd12526",
+    "content": "Reimagine business with AI Help me develop a strategic plan to use AI to innovate our business model, build new capabilities, and stay ahead of the curve",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "8a4559ca-c9bb-4c39-b880-153e67f08b2c",
+    "content": "Decode acronyms What does [LLM] stand for?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "ea1310dc-761b-4051-999d-185dc8da51b5",
+    "content": "Help me stay on track How can I track my progress this semester and adjust my plans as needed?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "ff913f49-c305-4cc4-a6db-4ab0a4e4ef21",
+    "content": "Draft content faster Create a blog post about [topic]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "966968c6-9865-42dd-87c6-e31b04b61f29",
+    "content": "Make it better Help me improve my writing in this file: [upload document]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "52299e84-bf52-4ae1-9da0-106de97cd6ed",
+    "content": "Scan industry headlines What are the top headlines in the [tech] industry this week?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.451Z",
+    "title": ""
+  },
+  {
+    "id": "3ca41c4b-0815-46b3-9ab5-c8d17a1221d1",
+    "content": "Help you get started I'm gathering customer feedback on our new product. What are some great questions to ask?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "de9ee6d0-ac03-4305-a56a-171a0169af88",
+    "content": "Win them back What are some tips for dealing with unsatisfied customers?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "6e66905e-68be-428c-b536-5790ca9d7562",
+    "content": "Plan keynote workback Generate a rehearsal plan for practicing a 60-minute keynote presentation. Break down the practice sessions into manageable chunks and suggest a schedule that allows for audience interaction. Identify any potential questions that may come up and suggest preemptive answers or strategies addressing these concerns.",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "d2922bbf-2657-4f07-8b00-f0a2bd477ee4",
+    "content": "Get an overview Summarize this: [upload file]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "d7cc992e-9923-427d-8532-5defd7a8a66b",
+    "content": "Set goals How do I set achievable goals at work?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "2f78ca68-06ea-4b04-b7fe-142f46ab17ef",
+    "content": "What are the main concepts? Can you explain the product life cycle?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "a4283987-1326-4205-87ea-e943e46d2c6c",
+    "content": "Streamline your inbox How can I efficiently manage a high-volume inbox?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "04778c2f-3535-4dc6-82d7-a73529ba448b",
+    "content": "Suggest some ideas Help me come up with questions for a user research survey",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "fd7e0088-eb00-4d3b-961d-28fabf93ccd3",
+    "content": "Compare trends Compare 10 of the most innovative and creative workplace designs",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "044a92fe-041c-454a-ab33-616d1ca168b5",
+    "content": "Write an essay Write a short essay that analyzes the merits and pitfalls of universal basic income",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "8e07a56c-c26b-4086-897b-9da1df944be2",
+    "content": "Provide good feedback Give examples of constructive criticism for the workplace",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "605efbe2-c039-44f3-84a4-c6b59157905a",
+    "content": "Help me take better notes What are some tips for taking notes in class?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "444376c6-1136-49cd-b358-7814ce527f9a",
+    "content": "Understand trends Share some trends in remote work and hybrid offices",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "dd08b909-bca2-4a9f-8cf8-21ff4b446221",
+    "content": "CSS at a glance What are three popular CSS techniques to lay out responsive web apps?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "08c5e8b7-6fc4-4f97-aee9-0c8d5bd9fefa",
+    "content": "Manage email distractions Share strategies to help me minimize email distractions and stay focused on my tasks",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "3bdbff58-8f82-4c3c-8e9e-7a936a29a0f4",
+    "content": "Highlight the differences Compare these files by formatting, structure, and content: [upload files]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "e109115d-a342-4c40-82a5-f94f9046a973",
+    "content": "Inject humor Suggest ways to add some fun and humor into this presentation: [upload file]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "64aa9e0c-e997-4b90-b8c6-95c6c080d48f",
+    "content": "Evaluate AI progress Create a detailed, actionable AI-first maturity assessment toolkit for managers",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "de3c7752-8934-49b5-b439-c251eff08406",
+    "content": "Distill analyst reports Summarize the latest Gartner or Forrester reports on [digital workplace tools]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "f96584d5-dd0a-47e9-8efd-be682d62a8bb",
+    "content": "Unpack competitor buzz What are analysts saying about [competitor name] this quarter?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "6921c39e-4bdf-47fe-a0c6-9a97cb691a77",
+    "content": "Interview warning signs What are some red flags to watch out for when conducting an interview?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "a8f42a23-e01d-45b2-9a61-4279285f2800",
+    "content": "Master your email routine Offer some strategies to help me create an email schedule to better manage my time and reduce distractions",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "7185f65c-5800-4683-b03f-047a7f78112b",
+    "content": "Build good habits Suggest a daily routine to help me stay organized at work",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "f8fbd790-d13f-48ec-81ac-e486f191f4d8",
+    "content": "Coach team members Give me some tips for helping my team self-advocate",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "ced37c5b-92c1-4fa0-aaae-d8eb54aa0ebe",
+    "content": "Challenge your peers Suggest a few clever riddles that I can use to try to stump my coworkers",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "79723cda-e44f-4296-a328-daeef52e5e6c",
+    "content": "Help me with a grad school application What are some tips for writing a compelling personal statement for graduate school?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "95288c3b-42c0-4798-b54d-b168f0218f74",
+    "content": "Boost LinkedIn engagement Give me tips to increase my Linkedin presence",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "b0964a5b-5a2f-4a00-8c00-2420a13d0d43",
+    "content": "Navigate coworker tension How can I deal with a difficult colleague?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "94e93d91-01fa-4f5b-a2d4-c7d325c2e194",
+    "content": "Have a laugh Suggest 5 office-friendly jokes",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "010756f8-b1bf-452a-8b14-36c9bd7b46ab",
+    "content": "Typeface sleuth What font is this? [upload image or insert link here]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "cecf7134-2991-417c-a977-580d3d84b20c",
+    "content": "Ideate and plan Come up with 3 ideas business plans for merging technology",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "1510456f-290a-4c81-be87-d975703650f0",
+    "content": "Timely LinkedIn posts Write an engaging LinkedIn post tailored for [Retail], about the latest news",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "209a4efa-659f-4267-a369-41c22e981a13",
+    "content": "Reveal their priorities What’s the latest research on Gen Z workplace expectations?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "367d2d0d-b8c8-4d56-b5bd-649f250804a8",
+    "content": "Scan for market shifts Any new McKinsey or Deloitte insights on [hybrid work]?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "57f6875d-92ae-4c17-b55a-3e46690a9de6",
+    "content": "Spot the errors How can I avoid common mistakes when proofreading my work?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "7d8ebea7-1aa8-4ac9-8a8c-9d83b98db885",
+    "content": "Get project help Is a SWOT analysis or a priority matrix best for my project?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "6994847c-a04f-408f-a957-bd60b934aa50",
+    "content": "Brainstorm gift options Suggest some gift ideas for my clients that are under $50 each",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "af64b03f-93f2-443f-a0f7-e2785b15af32",
+    "content": "Kickstart event planning List options for local catering companies for our [end of fiscal year] event",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "0868be05-88ac-4ff9-9b48-fa08eab885b0",
+    "content": "Grow your skills What are some principles of good management?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "c636b352-36fd-4fdd-b0ea-067815847aea",
+    "content": "Understand the main points List key points from this document: [upload file]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "81be5919-12de-47ed-84b2-ff96cf39ef22",
+    "content": "Draft an introduction Write a compelling intro paragraph to this file: [upload file]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "2cb1e727-eb8b-49cc-a875-52e1f8f94230",
+    "content": "Connection starter Help me choose the most memorable fun fact about myself to use as a work icebreaker",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "cb7187f7-7506-4155-8adb-5b0c58e865e5",
+    "content": "Let's debate Debate the benefits of [frequent synchronous meetings] versus [relying on asynchronous communication]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "f55fd61f-b75e-4f95-a88f-7f1cf42f9352",
+    "content": "Flag global disruptions Any global events that could impact our supply chain or operations?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "6dd1d2b5-df37-4e2e-8f4f-dc7bfc052e67",
+    "content": "Track global tensions Summarize recent geopolitical developments affecting [tech] companies",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "9ecab477-9dff-4b8f-b377-b787ad810074",
+    "content": "Put info in a table Organize the world's most valuable companies into a table",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "6582779b-dcb1-4967-b5ed-065b2b6d14c1",
+    "content": "Prep for an interview Provide 5 interview questions for an administrative assistant role",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "fc0b291e-8968-4c8d-ba81-5f4ec0c421ed",
+    "content": "Get more done How can I improve my productivity during remote work?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "1182cda0-75b1-4ceb-ab2a-f27765d96248",
+    "content": "Improve your workspace Provide tips on decluttering my workspace for maximum efficiency",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "607bfe36-cd02-474d-be79-b4c8b44569a2",
+    "content": "Get hiring tips How can I evaluate an interview candidate's soft skills?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "b8a7b11f-bd46-4d94-8e40-fbd101309037",
+    "content": "Rethink the review Help me compare the effectiveness of [annual formal reviews] versus [continuous real-time feedback]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "740143f2-aa33-483b-9cb9-4e1ded952c3b",
+    "content": "Encourage benefit usage Suggest ways to encourage employees to use their benefits, such as vacation",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "22201e55-8164-4de7-8c6a-1782eed9a2be",
+    "content": "The 4-day debate Let’s explore arguments for and against [transitioning to a four-day work week]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "01482b0e-8e44-475c-bcf5-76450ca99ca8",
+    "content": "Workplace whoppers List common work scenarios with cheeky, made-up excuses—like 'the dog ate my homework,' but for adults with deadlines",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "ddad324a-9b31-4b0e-846e-155e61fd68fd",
+    "content": "Campaigns that click Compare [social media] and [email marketing] with clear, actionable guidance",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "90fda261-a5cc-4f06-aec8-de55accbaff3",
+    "content": "Class rubric helper Create a winning rubric for success in my [Intro to Psychology] course",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "9f8bbf33-588f-429c-8acf-c0a81a667395",
+    "content": "Help you focus Help me come up with a plan to focus better this semester",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "39478350-6162-4716-b426-17e1bf671275",
+    "content": "Polish your essay Help me revise this essay (upload file) to make it more formal and coherent",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "6fe99670-1212-4748-a746-fa5ad481cd6c",
+    "content": "Quick lesson plans Draft a fun lesson plan to teach 5th graders about [photosynthesis]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "c52e1404-e880-42a6-b26b-f70d93002827",
+    "content": "Classroom fun Give me three math jokes for my 6th grade class",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "718ae055-c74a-4522-a67b-3dd7619efb6a",
+    "content": "Idea generator Suggest 10 ideas for a group project on [influencer marketing]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "e44adc51-7d41-4f4d-88a1-e685c77b7907",
+    "content": "Help you teach Create a lesson plan on the [Industrial Revolution] for my [history] class.",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "19eb55eb-492d-46fb-868d-0eb3f5d78d07",
+    "content": "Help me get started Draft an outline for an essay on [Okun’s law for my macroeconomics course]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "06e9264c-ea21-4468-8639-397f214a2496",
+    "content": "Draw conclusions Help me analyze the data from my experiment using this: [upload file]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "eb6e97d6-5d20-4b17-ba33-30c6011efd17",
+    "content": "AI and education What are the main ways educators are responding to the advance of AI?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "bae00b57-1418-408d-a81a-1cb9fcb6acfd",
+    "content": "Help me brainstorm List 5 possible essay topics with sample thesis statements for my class in [20th-century Latin America]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "2f44e8fc-7685-4f8c-9a72-18e2f12f7e49",
+    "content": "Say it like a local Suggest 7 popular colloquial [Italian] phrases for an intermediate class",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "e8ef345d-ce49-44e5-acf0-c68363135040",
+    "content": "Write an email Email my professor asking for [an extension on an assignment]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "921012ad-99f6-4188-8681-c9b6410b4a85",
+    "content": "Modern education What are some promising innovations in education?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "b2c76d67-03b0-4484-876e-4d6066a130e6",
+    "content": "Request funding Write a grant proposal to [take 10th graders to a college fair]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "394408fe-f397-4b84-a32b-6373fbdf8935",
+    "content": "Life taxonomy Make a table for middle schoolers with the classification of living organisms",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "257e8c8f-55c7-4b4c-a3af-0d24865cf360",
+    "content": "Jokes for class Know any funny jokes to tell my macroeconomics class?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "90421766-c440-451b-b3b1-8788f3cab444",
+    "content": "Help me manage stress Suggest ways to manage stress this semester",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "cacb1670-c174-43be-bdff-c5f18e993641",
+    "content": "Create some flashcards Make flashcards to study for my 3rd-year Spanish test",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "a5d14bf7-36ea-4a98-a400-c8f92cafafc5",
+    "content": "Create lesson units Draft a 2-week lesson plan on [cellular energetics] for [college biology]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "c8f6ea51-131b-47cc-a3f7-dcaf2f6242aa",
+    "content": "Crush your quiz Help me study for a quiz on [Romeo and Juliet]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "6dcd7547-0371-45fb-bc92-1f9f51736eb4",
+    "content": "Get report highlights Summarize the latest UN climate change report for my high school class",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "1d5ec4e1-c6b1-4a1c-a35a-2f504bef36cd",
+    "content": "Request help Draft an email to parents asking for [classroom volunteers this year]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "53d61c77-9861-4fde-a660-9983c15b4dff",
+    "content": "Help me memorize Give me some mnemonics to help me remember each topic from my class notes",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "2297d1e3-a27b-43c2-b5b7-37432b4534b9",
+    "content": "Classroom dynamics How can I increase student participation in classroom discussions?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "976669a2-fd4b-4381-b75b-cbe4737dbadf",
+    "content": "Give me some email tips How should I write an email to my professor asking for clarification on the recent assignment?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "d540cd40-9edf-402f-9c89-8f3ebdd3fee0",
+    "content": "Test your knowledge Ask me questions about digital marketing to help me study for an upcoming exam",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "62fd1044-6d34-452f-8321-758f671cab63",
+    "content": "Engaging discussions Suggest some classroom discussion prompts on [the role of media in society]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "e25ed951-40c2-4efd-970a-c0915c0e1bf0",
+    "content": "Analyze the results Recap the findings of this research paper: [upload file]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "2189e468-af6e-4c02-a3be-d9b97e83f17e",
+    "content": "Keep up with trends What are the latest findings and recommendations in the GEM report?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "9ee8cd65-84a8-4b17-9364-c7a629ea16af",
+    "content": "Write it faster Draft an email about [upcoming parent-teacher conferences]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "25357d5a-589a-4c27-ac75-09e7785e55e6",
+    "content": "Improve your lectures How can teachers make lectures more engaging and effective?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "8e8032ef-2a95-4102-a323-2d491afe0622",
+    "content": "Enrich your understanding Draw thematic parallels between the book [1984 by George Orwell] and real-world events",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "667161ff-b72d-4af9-be4d-88f56d462f42",
+    "content": "Worksheets made easy Create a worksheet for university students in [Shakespeare 101]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "dd3c69db-ae60-471a-8fe7-fa4605f12047",
+    "content": "Help you brainstorm Generate fun team names for my project group on [topic]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "be11e6e7-abba-4f7b-86a3-09986816c797",
+    "content": "Help you critique Suggest feedback on this essay: [upload file]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "e5b0170a-0559-4ede-b7cb-bca6298529b3",
+    "content": "Essay essentials Help me create guidelines for 7th graders on writing a persuasive essay",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "72069412-b4c4-409a-b5bd-69fa642d487e",
+    "content": "Create a syllabus Make a syllabus template for a college-level course",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "27c0cab2-e750-4cc2-80a7-0dc19c08fee5",
+    "content": "Track their reading Help me create a template for an 8th-grade reading log",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "02dbdedc-c8c1-4d83-8b3e-c79111e138e6",
+    "content": "Make some lesson plans Create lesson plans on the Kinematics unit for my AP Physics class",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "c89a7853-1478-4025-aeee-a52370ac7cc5",
+    "content": "Data-driven recruiting Create a recruitment process outline, including timelines and resources",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "eda28c91-1501-4208-bcc8-43f16aa291e3",
+    "content": "Interview prep Create a set of interview questions for the position of [Software Engineer]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "29689b5b-b87d-48e9-a710-a6148478b227",
+    "content": "Quick start framework Create a 30-day onboarding guide for [new designers]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "fe7bba2c-58f1-44c5-9179-5eb7e8dfaa23",
+    "content": "Plan change management Find change management best practices for [a change in benefits]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "820873ff-fc4f-4c63-8abf-f46e9d7fbe52",
+    "content": "Polite decline template Write a polite rejection letter to applicant [John Doe]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "df9b42e6-5ff6-46f1-95ce-b83eefc4a626",
+    "content": "Hiring process template Create a comprehensive hiring plan with a timeline, steps, and best practices",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "237f53a5-ca9d-4adf-8d95-2c98ed026124",
+    "content": "Effective job advertising Help me advertise job openings in [Construction]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "374ecedf-bf9a-4d3a-8ea8-ff6668cee6fb",
+    "content": "Accelerate offer letters Draft an offer letter to a candidate for the position of [Software Engineer]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "7561badd-8f73-48b7-abd9-c71600064d22",
+    "content": "List employment laws List the current Manufacturing employment laws for [California]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "0f27c06f-2e7f-48f5-a99d-79684f8a3a4f",
+    "content": "Define job requirements Create a list of the essential skills required for a [Software Engineer]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "bb1e4843-e6eb-4f08-9dc2-794669590b21",
+    "content": "Plan a job fair Help me plan a job fair to hire [designers]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "b49b1635-2a98-4bdb-9e38-9320d226f467",
+    "content": "Conduct market research Compile data about hiring trends [hospitality] and present them in a table.",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "4a120030-199b-4def-9b68-51dac843ecea",
+    "content": "Implement best practices Draft a planning memo to leverage and implement hiring best practices",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "04516d42-047b-4e4d-9e01-96d426003d43",
+    "content": "Guide manager onboarding Provide a detailed and actionable list of steps for onboarding a new [Graphic Designer]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "e69d7291-249a-4789-818d-99a273bfc36a",
+    "content": "Anticipate questions Draft questions and response questions about a [change in policy]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "72a1894e-80ef-4ce6-ac29-ff1a8012ddd6",
+    "content": "Formulate plans Help me create a change management plan for a team of Service Advisors",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "a5d8fc2c-558d-4ed9-9bf1-619ac03a6e13",
+    "content": "Anticipate concerns What questions might a workers' council raise about a policy in [region]?",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "156556d4-e579-420c-8360-6e906290dbec",
+    "content": "Craft a job description Create a job description for a [Senior Animation Designer] role",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "4ad073de-8423-45a8-b81c-d8dbd6dbca66",
+    "content": "Compile industry trends Summarize hiring trends in [hospitality] and provide ways for businesses to adapt.",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "5dc7e369-1167-41a3-b929-eb03e3614534",
+    "content": "Communicate next steps Draft an email to my customer about their next technical service request",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "477d54e0-7a85-45ce-ad3b-e66b5240cb86",
+    "content": "Recognize their service Create a set of evaluation questions for a [Community Service] award",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "dfd67523-d823-4e59-9b4a-d63c6e994690",
+    "content": "Technical discovery Create a service intake form for [Contoso]'s tech issues.",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "71a48c22-a725-4c44-8fc0-f5f9d8bbe80c",
+    "content": "Engage strategically Draft an account plan that aligns our sales targets and their business objectives",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "c6da80c3-91a5-4634-8f0d-a600d253dc75",
+    "content": "Engage new prospects Draft a prospecting email to possible new customers or clients for our company",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "2def667a-1689-49d9-a38c-86f468780225",
+    "content": "Monitor customer feedback Create a checklist with steps capture and process customer feedback",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "a786882d-3d4f-4f46-87a2-c9f5793c0ce8",
+    "content": "Plan weekly updates Draft an internal communications strategy. Include a template for status updates",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "7f449619-a5c7-47a9-9cdd-38c777e26ab7",
+    "content": "Outline customer needs Make a template for documenting customer use cases ranked by needs",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "bd8be763-c647-49ee-8a53-4e150b88c50f",
+    "content": "Review risk rulings Conduct a detailed analysis of recent case law relevant to risk management in contracts",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "ccf914d4-57ea-4ecc-b8de-91d6cba6c640",
+    "content": "Draft guideline language Generate sample language for guidelines on [specific regulation or legal issue]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "c5b85199-04b3-4ec9-8b6b-ff0e2c4e5d5b",
+    "content": "Update your client Draft a communication to [client's name] regarding the status of their case",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "0a4a7875-1876-4cb4-b7c6-ec39106b6250",
+    "content": "List key takeaways from recent case decisions List key takeaways from recent case decisions that can be applied to our future legal strategies",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "43f4066c-6947-49f4-9e8a-fa4b0ccde89d",
+    "content": "Break down regulations Conduct a comprehensive analysis and summary of the key provisions of the regulation titled [regulation name]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "21b2fb86-4d1d-4da2-88c0-3c0fdc0e4f52",
+    "content": "Summarize contract terms Extract the duration terms and clauses related to [renewal or termination] from [this contract document file]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "94fc86e9-59c4-46ed-9cd8-6630ee9900aa",
+    "content": "Summarize MOU feedback Draft an email summarizing feedback and suggestions for the memorandum of understanding (MOU)",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "0f0b8f64-2cae-493a-bfce-027ff3c1f8d5",
+    "content": "Plan outlet visits Suggest a process for planning and documenting outlet visits",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "d4e1e96e-a3e1-4d04-b380-4a7881443dae",
+    "content": "Amplify your impact Write an engaging 300-word impact story based on this file: [upload file]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "4ec71f56-1f73-48ba-b558-ccfb21e87f9f",
+    "content": "Sustainability boost Draft an email to employees recommending sustainability best practices",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "f1c82e74-c9d3-4349-b3c8-6dbf54eb2408",
+    "content": "Summarize performance Create a template for reporting end of the quarter performance of the store",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "f72172a2-919a-46c2-8594-eeaf600a6767",
+    "content": "Identify drilling risks List potential risks and mitigation strategies for [a new drilling project]",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "1d69001b-e91b-4295-a550-801955eab172",
+    "content": "Efficient line inspection Create a template for an ad hoc production-line inspection",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "4701c988-14fa-40af-b777-42a3102eb0d6",
+    "content": "Warehouse safety first Draft an email to my team reminding them of key warehouse safety procedures",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "0784ae67-d810-48ae-bff2-7e6287566f8d",
+    "content": "Mortgage trends analysis Analyze [inflation]'s impact on current interest rates on mortgage offerings",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "532720ad-89dc-41a3-b57a-1de3779e13fb",
+    "content": "Share exciting deals Write a promo email about upcoming deals and discounts",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  },
+  {
+    "id": "33907ea5-b8f8-4848-8238-bf3150924f94",
+    "content": "Discover relevant resources Find the best information sources for nonprofit marketers",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "type": "text",
+    "createdAt": "2025-07-21T17:43:36.452Z",
+    "title": ""
+  }
+]

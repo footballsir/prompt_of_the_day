@@ -1,0 +1,138 @@
+
+# Prompt of the Day 1#
+
+Description:
+When working with Copilot, the quality of your prompts is important. At the start of each week, you might find it helpful to use this prompt.
+
+Prompt: 
+"Summarize all action items that were assigned to me via email, meeting transcripts, Teams messages, and file comments where I was @mentioned. Include any tasks, follow-up requests, or deadlines that people mentioned. Create a table with the following columns: 1) Action Item, 2) Who Assigned It, 3) Requested Due Date, and 4) Status (if mentioned). If no due date is mentioned, leave it blank."
+
+# Prompt of the Day 2#
+
+Description: 
+How can we efficiently keep up with daily news relevant to our field? Here’s a prompt you can use each day or set up on a schedule.
+
+Prompt: 
+"Prepare a brief of today's news from the [technology, ai] industry regarding [llm, agent, vibe cording]. Use paragraphs to summarize each news article. Begin the paragraph(s) with a strong topic sentence phrased as an assertion. Bold the topic sentence. After each summary, include "Source:" followed by the source name that links to the source material."
+
+# Prompt of the Day 3#
+ 
+Description:
+As the week comes to a close, do you need to prepare a weekly status update for your stakeholders? Here’s a prompt that can help you summarize your accomplishments from this week in an email format.
+ 
+Prompt:
+"Draft my weekly status update using my recent meetings, sent emails, and updated documents. Group the update by project or topic. Keep it professional, concise, and easy to copy into an email."
+
+# Prompt of the Day 4#
+
+Description:
+Today is Monday. Sometimes we all need a reminder of how great we are. This is a 夸夸 prompt to encourage ourselves and boost our energy for the week. Give it a try! 
+ 
+Prompt:
+"Using the emails and Teams chats, summarize the recognition and appreciation I have received in the past month. Provide a brief summary including the project or topic, the recognition given, and who provided it. Then, compile a polished paragraph highlighting key themes of my contributions and impact.“
+
+# Prompt of the Day 5#
+ 
+Description:
+Let’s make today fun! Get creative and imagine who you’d like to be in your own Minecraft world and share it with the group. 
+ 
+Prompt:
+"A high-resolution background inspired by the Minecraft universe, featuring a bright daytime scene with a clear blue sky and soft, blocky clouds. The landscape includes lush green hills, tall pixelated trees, yellowish and orange colors. Peaceful Minecraft animals such as big chickens, pigs, and pandas roam the grassy plains, adding life to the environment. A Minecraft character with [your features] wearing [your outfit] walks through the scene holding a [object of choice]."
+
+# Prompt of the Day 6 #
+ 
+Description:
+Brain being a little sluggish? Need to source fresh ideas but your colleagues have conflicts? Try this prompt!
+ 
+Prompt:
+"Hey Idea Coach, help me brainstorm about [a specific topic]."
+
+# Prompt of the Day 7 #
+ 
+Description:
+Did you recently take some personal vacation time? If you’d like to catch up on what you missed while you were away, try using this prompt!
+
+Prompt:
+"I’ve been on vacation. Summarize what I’ve missed from the last 7 days into bullet points of actions where I’ve been mentioned.
+Then, look through my email’s “Inbox” folder, Teams chats, and meeting recaps and transcripts. Create a table that includes: Action item, deadline, who assigned it. Order all items in the table by the suggested priority in which they should be completed."
+
+
+# Prompt of the Day 8 #
+
+Description:
+你累了吗？Are you feeling fatigued after a long week? Considering using this prompt to help restore your energy and support your well-being!
+
+Prompt:
+"Give me 3-5 ideas for stretches and breathing exercises I can squeeze in between meetings. They should take less than 5 minutes, require no equipment, and be helpful for someone who sits at a desk most of the day. Include a list of wellness resources provided by Microsoft that I can use."
+
+
+# Prompt of the Day 9 #
+
+Description:
+Are you interested in finding out how Copilot perceives you? Copilot, as your work partner, may know more about you than you realize. Try this prompt to see just how much Copilot can understand about you.
+
+Prompt:
+"Describe me based on the past interactions and inquiries with Copilot. Highlight my leadership style, design philosophy, communication approach, working style, and areas of curiosity or growth."
+
+
+# Prompt of the Day 10 #
+
+Description:
+Interested in having a personal coach to help you grow? Use this prompt to learn more about your collaboration style and get suggestions from Copilot. Give this prompt a go.
+
+Prompt:
+"Review my emails, meeting recordings, and chats over the last 6 months.  Analyze my personal style across the following 5 dimensions: Context, Risk, Linear vs. Parallel, Hierarchy, and Individualism vs. Collectivism.  Provide coaching for working with coworkers in [China, USA, and India] including where I may have blind spots and how I can better engage.  Create a chart that shows my strengths and weaknesses when working with colleagues in [China, USA, and India]."
+
+
+# Prompt of the Day 11 #
+Description:
+Reframing is often the key to innovation. This prompt helps you step away from conventional problem statements and explore fresh perspectives.
+
+Prompt:
+"I'm designing [product] for [target audience]. Instead of asking 'How can I solve [problem]?', what are 5 alternative ways to frame this challenge that might lead to more innovative solutions?"
+
+
+
+# Prompt of the Day 12 #
+Description:
+As we near the end of the week, here’s a prompt to help you reflect on your weekdays with a lighthearted twist:
+Prompt:
+"Summarize my week in the style of a comedy roast"
+
+ 
+
+# Prompt of the Day 13 #
+Description:
+A useful prompt to quickly generate audio overviews from any document. Open your document in Word Online, and give it a try in Copilot in Word to streamline your document reviews and make information easier to digest on-the-go
+
+Prompt:
+"Generate an audio overview from this document“
+
+
+# Prompt of the Day 14 #
+Description:
+Happy Monday! Here's a helpful AI prompt to start your week organized, quickly surfacing important actions from your recent Teams chats and meetings
+Prompt:
+"What should be on my radar based on Teams chats and meeting notes I was involved in last week? Summarize them into a table with columns: Meeting | Key Actions | Deadline (if any)."
+
+ 
+
+# Prompt of the Day 15 #
+Description:
+A helpful prompt to quickly generate concise news summaries on any topic you’re interested in. Use it in ChatGPT or Copilot to stay on top of key developments and get a clear, organized brief with sources you can easily follow up on.
+ 
+Prompt:
+“Summarize [today’s] key [industry/topic] news about [subject]. For each article:
+– Begin with a bold, assertive topic sentence summarizing the main point.
+– Follow with a concise summary of the article’s key developments.
+– End with:
+Source: [publication name](link to article)”
+
+
+
+# Prompt of the Day 16 #
+Description:
+Try a fun prompt for a quick break, use it in ChatGPT or Copilot to imagine how someone from the past might react to modern technology—and have fun highlighting what’s changed (or hasn’t!).
+
+Prompt:
+“Pretend you’re a frustrated user from the year 1995 who suddenly finds themselves using today’s [app or website]. Write your feedback or review for the product team—be as dramatic, confused, or amused as you like.”

@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "Framelink Figma MCP": {
+      "command": "/Users/menghuihu/.nvm/versions/node/v24.4.1/bin/npx",
+      "args": ["-y", "figma-developer-mcp", "--figma-api-key=YOUR_FIGMA_TOKEN_HERE", "--stdio"],
+      "env": {
+        "PATH": "/Users/menghuihu/.nvm/versions/node/v24.4.1/bin:/Users/menghuihu/.npm-global/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin",
+        "NODE_PATH": "/Users/menghuihu/.nvm/versions/node/v24.4.1/lib/node_modules"
+      }
+    }
+  }
+}
