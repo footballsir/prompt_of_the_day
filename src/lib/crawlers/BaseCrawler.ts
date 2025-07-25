@@ -10,12 +10,11 @@ export abstract class BaseCrawler {
 
   abstract crawl(): Promise<Prompt[]>;
 
-  protected createPrompt(content: string, url?: string, model?: string, title?: string, mediaUrl?: string, description?: string): Prompt {
+  protected createPrompt(content: string, url?: string, model?: string, title?: string, mediaUrl?: string): Prompt {
     return {
       id: uuidv4(),
       content: content.trim(),
       title: title || '',
-      description: description || '',
       source: this.config.name,
       url: url || this.config.url,
       type: this.config.contentType,

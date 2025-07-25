@@ -27,7 +27,7 @@ export const crawlerConfigs: CrawlerConfig[] = [
   },
   {
     name: 'Anthropic Prompt Library',
-    url: 'https://docs.anthropic.com/en/prompt-library',
+    url: 'https://docs.anthropic.com/en/resources/prompt-library/library',
     selector: 'a[href*="/prompt-library/"], .prompt-title, .prompt-description',
     type: 'puppeteer',
     contentType: 'text',

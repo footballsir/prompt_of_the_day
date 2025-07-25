@@ -246,5 +246,29 @@
         "total": 15
       }
     ]
+  },
+  {
+    "date": "2025-07-25",
+    "promptId": "2353ae12-a79b-4dcb-ab71-500fde223651",
+    "selectedAt": "2025-07-25T04:00:13.978Z",
+    "id": "2353ae12-a79b-4dcb-ab71-500fde223651",
+    "title": "Quiz me",
+    "description": "The prompt is educational, engaging, and encourages interactive learning, making it suitable for a professional creative environment.",
+    "content": "Quiz me to see what I remember about enzyme kinetics for biochemistry",
+    "source": "Microsoft Copilot",
+    "url": "https://copilot.cloud.microsoft/en-us/prompts",
+    "category": "text",
+    "model": "Copilot",
+    "mediaUrl": "",
+    "llmReason": "The prompt is educational, engaging, and encourages interactive learning, making it suitable for a professional creative environment.",
+    "llmScores": [
+      {
+        "promptNumber": 3,
+        "inspiring": 4,
+        "appropriate": 5,
+        "fun": 3,
+        "total": 12
+      }
+    ]
   }
 ]
